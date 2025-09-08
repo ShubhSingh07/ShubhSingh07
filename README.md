@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubh Singh</h1>
+[<h1 align="center">Hi 👋, I'm Shubh Singh</h1>
 <h3 align="center">A passionate Data Analysist developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhsingh07&label=Profile%20views&color=0e75b6&style=flat" alt="shubhsingh07" /> </p>
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhsingh07&show_icons=true&locale=en" alt="shubhsingh07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhsingh07&" alt="shubhsingh07" /></p>
+](https://buymeacoffee.com/shubh868?new=1)
